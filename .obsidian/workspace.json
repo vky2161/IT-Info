@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "f84c22ae2fa39f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c75223ab071e404",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "122c0637966fa974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBE DOCUMENTATION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CBE DOCUMENTATION"
+            }
+          },
+          {
+            "id": "df93cb2fcbe23438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "complete boot-repair + GRUB recovery + Windows fix documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "complete boot-repair + GRUB recovery + Windows fix documentation"
+            }
+          },
+          {
+            "id": "ca25658143a37557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fog setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fog setup"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93de587ab677f7c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "951826c647601f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "364642e8d9eb70ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a8e7fcfeb48281bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "SERVER",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a95bd0aa6883c02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2b93d1e1708965e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b9bea858129511a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab9541648e04c83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CBE DOCUMENTATION.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CBE DOCUMENTATION"
+            }
+          },
+          {
+            "id": "d3c585876ae76a3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fog setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Fog setup"
+            }
+          },
+          {
+            "id": "51a4464657b78521",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e6678e75bd39cdb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "93322176f080f6f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CBE DOCUMENTATION.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CBE DOCUMENTATION"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ca25658143a37557",
+  "lastOpenFiles": [
+    "files/README.md",
+    "files/complete boot-repair + GRUB recovery + Windows fix documentation.md",
+    "files/CBE DOCUMENTATION.md",
+    "files/Untitled.base",
+    "files/Untitled 1.md",
+    "files/Untitled 1.base",
+    "files",
+    "New folder",
+    "README.md",
+    "Fog setup.md",
+    "complete boot-repair + GRUB recovery + Windows fix documentation.md",
+    "Untitled.base",
+    "Untitled 1.md",
+    "Untitled 1.base",
+    "CBE DOCUMENTATION.md",
+    "2026-06-11.md"
+  ]
+}
