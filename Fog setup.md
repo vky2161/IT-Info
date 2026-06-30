@@ -196,52 +196,6 @@ FOG uses all available free space on the filesystem where `/images` is mounted.
 
 ---
 
-# Creating the Images Directory
-
-If the directory does not exist:
-
-```bash
-sudo mkdir -p /images
-sudo chmod 777 /images
-sudo chown -R fogproject:root /images
-```
-
----
-
-# Recommended Storage Layout
-
-## Small Lab
-
-```
-Disk 1 (500 GB)
-
-Ubuntu
-FOG
-/images
-```
-
-Images are stored on the same disk.
-
----
-
-## Production (Recommended)
-
-```
-Disk 1 (SSD)
-
-Ubuntu
-FOG
-
-Disk 2 (HDD/SSD)
-
-/images
-```
-
-The operating system and images are stored on separate disks.
-
-
----
-
 # Capture Workflow
 
 1. Register the client using PXE boot.
