@@ -1,2 +1,2 @@
-# IT-Info
+# IT-Setup
 About IT tools and setup 
