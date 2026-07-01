@@ -69,9 +69,10 @@ git --version
 
 Run these commands:
 
+```
 git config --global user.name "Your Name"
 git config --global user.email "your_email@gmail.com"
-
+```
 Check:
 
 ```
@@ -117,12 +118,13 @@ cd D:\files\
 
 Initialize Git:
 
+```
 git init
-
+```
 Add remote:
-
+```
 git remote add origin https://github.com/username/repo.git
-
+```
 ---
 
 # 9. Add Files to Git
