@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux setup/Linux server setup.md",
+                "file": "Opensource/syncthing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux server setup"
+              "title": "syncthing"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux setup/Linux server setup.md",
+                "file": "Opensource/syncthing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Linux server setup"
+              "title": "Outgoing links from syncthing"
             }
           },
           {
@@ -185,6 +185,12 @@
   },
   "active": "c3575e75718399db",
   "lastOpenFiles": [
+    "Pasted image 20260702115552.png",
+    "Pasted image 20260702115448.png",
+    "Pasted image 20260702115142.png",
+    "Pasted image 20260702115134.png",
+    "Linux setup/Linux server setup.md",
+    "Opensource/syncthing.md",
     "Opensource/Fog setup.md",
     "Opensource",
     "Opensources",
@@ -193,7 +199,6 @@
     "GitHub",
     "Issues & Errors/complete boot-repair + GRUB recovery + Windows fix documentation.md",
     "Issues & Errors",
-    "Linux setup/Linux server setup.md",
     "GitHub Account Creation & Setup Guide.md",
     "Fog setup.md",
     "files/README.md",
