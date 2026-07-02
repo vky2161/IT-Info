@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opensource/syncthing.md",
+                "file": "Opensource/Syncthing Configuration Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "syncthing"
+              "title": "Syncthing Configuration Guide"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Opensource/syncthing.md",
+                "file": "Opensource/Syncthing Configuration Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from syncthing"
+              "title": "Outgoing links from Syncthing Configuration Guide"
             }
           },
           {
@@ -185,12 +185,14 @@
   },
   "active": "c3575e75718399db",
   "lastOpenFiles": [
+    "Issues & Errors/Sync-Thing Error.md",
+    "Opensource/Syncthing Configuration Guide.md",
+    "Linux setup/Sync-Thing Error.md",
     "Pasted image 20260702115552.png",
     "Pasted image 20260702115448.png",
     "Pasted image 20260702115142.png",
     "Pasted image 20260702115134.png",
     "Linux setup/Linux server setup.md",
-    "Opensource/syncthing.md",
     "Opensource/Fog setup.md",
     "Opensource",
     "Opensources",
