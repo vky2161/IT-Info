@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opensource/Syncthing Configuration Guide.md",
+                "file": "Issues & Errors/Sync-Thing Error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syncthing Configuration Guide"
+              "title": "Sync-Thing Error"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Opensource/Syncthing Configuration Guide.md",
+                "file": "Issues & Errors/Sync-Thing Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Syncthing Configuration Guide"
+              "title": "Outgoing links from Sync-Thing Error"
             }
           },
           {
@@ -185,21 +185,25 @@
   },
   "active": "c3575e75718399db",
   "lastOpenFiles": [
+    "images/Pasted image 20260702115134.png",
     "Issues & Errors/Sync-Thing Error.md",
+    "images/Pasted image 20260702115448.png",
+    "images/Pasted image 20260702115142.png",
+    "images/Pasted image 20260702115552.png",
     "Opensource/Syncthing Configuration Guide.md",
+    "Opensource/Fog setup.md",
+    "Linux setup/Linux server setup.md",
+    "Issues & Errors/complete boot-repair + GRUB recovery + Windows fix documentation.md",
     "Linux setup/Sync-Thing Error.md",
     "Pasted image 20260702115552.png",
     "Pasted image 20260702115448.png",
     "Pasted image 20260702115142.png",
     "Pasted image 20260702115134.png",
-    "Linux setup/Linux server setup.md",
-    "Opensource/Fog setup.md",
     "Opensource",
     "Opensources",
     "New folder",
     "GitHub/GitHub Account Creation & Setup Guide.md",
     "GitHub",
-    "Issues & Errors/complete boot-repair + GRUB recovery + Windows fix documentation.md",
     "Issues & Errors",
     "GitHub Account Creation & Setup Guide.md",
     "Fog setup.md",
