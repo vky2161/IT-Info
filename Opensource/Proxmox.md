@@ -225,7 +225,11 @@ Example:
 |Network Down|Verify bridge configuration|
 
 
-##### The following screenshot displays the Proxmox VE Dashboard after successful installation and virtual machine deployment.
+***
+
+
+
+* The following screenshot displays the Proxmox VE Dashboard after successful installation and virtual machine deployment.
 
 ![](../images/ProxWebUI.png)
 
