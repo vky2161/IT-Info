@@ -4,10 +4,10 @@
 - Then  you have to delete those conflicts file and directory using commands  from the affected folder on the Linux machine where Syncthing is installed.
 
 
-![(Pasted image 20260702115142.png|396)]
+![}(../images/Pasted image 20260702115134.png|396)
 
 
-![(Pasted image 20260702115552.png)]
+![}(../images/Pasted image 20260702115552.png)
 
 
 # Troubleshooting
