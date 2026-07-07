@@ -1,3 +1,6 @@
+
+## Configuration Guide
+
 * To  install sycthing in linux machine.
 ```
 sudo apt install syncthing
@@ -31,7 +34,8 @@ syncthing --version
 
 # Add a Remote Device and Share a Folder
 
- Add a Remote Device and Share a Folder
+* **After installing Syncthing**, perform the following steps to add the remote device and configure the folder to be synchronized.
+
 # Prerequisites
 
 Before you begin, ensure that:
