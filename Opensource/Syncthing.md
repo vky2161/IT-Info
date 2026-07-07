@@ -1,37 +1,5 @@
 
-## Configuration Guide
-
-* To  install sycthing in linux machine.
-```
-sudo apt install syncthing
-```
-* Then start service.
-```
-sudo systemctl start syncthing@username.service
-```
-* The web interface will be available at:
-```
-http://127.0.0.0:8384
-```
-* Then you can change the IP from Web UI.
-
-#### For windows
-- You can download the Syncthing    [here](https://syncthing.net/downloads/)
-- after installation access from web UI.
-- And set the username And password for Web Interface.
-### Additional commands:
-
-* To  Check its status:
-```
-systemctl --user status syncthing.service
-```
-
-* To  Verify installation
-```
-syncthing --version
-```
-
-
+## Syncthing Configuration Guide
 # Add a Remote Device and Share a Folder
 
 * **After installing Syncthing**, perform the following steps to add the remote device and configure the folder to be synchronized.
