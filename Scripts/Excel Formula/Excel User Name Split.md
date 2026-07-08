@@ -39,6 +39,7 @@ In the first name column:
 ```
 
 Output:
+
 ![](../../images/Excel_Name_2.png)
 
 ---
@@ -52,6 +53,7 @@ In the second name column:
 ```
 
 Output:
+
 ![](../../images/Excel_name_1.png)
 
 
