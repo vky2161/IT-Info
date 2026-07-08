@@ -39,8 +39,7 @@ In the first name column:
 ```
 
 Output:
-
-![](../../Excel_Name_A.png)
+![](../../images/Excel_Name_2.png)
 
 ---
 
@@ -53,9 +52,7 @@ In the second name column:
 ```
 
 Output:
-
-![](../../Excel_Name_B.png)
-
+![](../../images/Excel_name_1.png)
 
 
 ## Step 3: Apply to All Users
