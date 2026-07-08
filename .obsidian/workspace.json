@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a55d01ada5186950",
+        "id": "47d855808dd39465",
         "type": "tabs",
         "children": [
           {
-            "id": "895be5f4fb59a0e4",
+            "id": "36f7d7c68b89d6c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/Recover Deleted File Using Git.md",
+                "file": "Scripts/Powershell/Powershell Scripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recover Deleted File Using Git"
+              "title": "Powershell Scripts"
+            }
+          },
+          {
+            "id": "132633d061c43b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scripts/Excel Formula/Excel User Name Split.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Excel User Name Split"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/Recover Deleted File Using Git.md",
+                "file": "Scripts/Excel Formula/Excel User Name Split.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Recover Deleted File Using Git"
+              "title": "Outgoing links from Excel User Name Split"
             }
           },
           {
@@ -183,8 +198,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "364642e8d9eb70ef",
+  "active": "132633d061c43b36",
   "lastOpenFiles": [
+    "images/Excel_Name_B.png",
+    "images/Excel_Name_A.png",
+    "images/Excel_Name_.png",
+    "images/Excel_name_A.png",
+    "images/Screenshot 2026-07-08 152943.png",
+    "images/Screenshot 2026-07-08 153024.png",
+    "images/Excel_Name_Split.png",
+    "images/Excel Name Split.png",
+    "images/Screenshot 2026-07-08 152513.png",
+    "Scripts/Excel Formula/Excel User Name Split.md",
+    "Scripts/Powershell/Powershell Scripts.md",
+    "Scripts/Powershell Scripts.md",
+    "Scripts/Excel Formula",
+    "Scripts/Commands/New folder",
+    "Scripts/Commands",
+    "Scripts/New folder",
+    "Scripts/VBA in Excel",
+    "Scripts/VBa",
+    "Scripts/Bash",
+    "Scripts/Powershell",
     "GitHub/Recover Deleted File Using Git.md",
     "Opensource/Syncthing.md",
     "Opensource/Proxmox.md",
@@ -192,38 +227,22 @@
     "Proxmox.md",
     "images/ProxWebUI.png",
     "images/Screenshot 2026-07-07 123109.png",
-    "images/Proxmox_interface.png",
-    "images/Pastedimage20260702115133.png",
-    "images/Pastedimage20260702115552.png",
-    "images/Pasted image 20260707122236.png",
-    "images/Screenshot 2026-07-07 122120.png",
     "Proxmox VM creation.md",
-    "images/Pastedimage20260702115134.png",
-    "images/Pasted image 20260702115134.png",
-    "images/Pasted image 20260702115448.png",
     "Opensource/Fog setup.md",
     "Linux setup/Linux server setup.md",
     "Issues & Errors/complete boot-repair + GRUB recovery + Windows fix documentation.md",
     "Linux setup/Sync-Thing Error.md",
     "Opensource",
     "Opensources",
-    "New folder",
     "GitHub/GitHub Account Creation & Setup Guide.md",
-    "GitHub",
-    "Issues & Errors",
     "GitHub Account Creation & Setup Guide.md",
     "Fog setup.md",
     "files/README.md",
     "files/complete boot-repair + GRUB recovery + Windows fix documentation.md",
     "files/CBE DOCUMENTATION.md",
-    "files/Untitled.base",
     "files/Untitled 1.md",
-    "files/Untitled 1.base",
-    "files",
     "README.md",
     "complete boot-repair + GRUB recovery + Windows fix documentation.md",
-    "Untitled.base",
-    "Untitled 1.base",
     "CBE DOCUMENTATION.md",
     "2026-06-11.md"
   ]
