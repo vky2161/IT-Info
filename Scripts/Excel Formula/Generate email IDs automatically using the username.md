@@ -22,7 +22,9 @@
 | powerhouse | [powerhouse@coolie.com](mailto:powerhouse@coolie.com) |
 | Rajini     | [Rajini@coolie.com](mailto:john@coolie.com)           |
 | Lokesh     | [Lokesh@coolie.com](mailto:alice@coolie.com)          |
+|            |                                                       |
 
+![](../../Mail-ID_Username.png)
 ---
 
 ### Scenario 2: Username + Father's Name to Email ID
@@ -47,7 +49,7 @@
 | Shruti   | Kamal         | [Shruti.kamal@coolie.com](mailto:powerhouse.kumar@coolie.com) |
 | John     | David         | [john.david@coolie.com](mailto:john.david@coolie.com)         |
 | Alice    | Smith         | [alice.smith@coolie.com](mailto:alice.smith@coolie.com)       |
-
+![](../../images/Username_mailid.png)
 ---
 
 ## Notes
